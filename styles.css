@@ -26,11 +26,9 @@ body
 }
 
 .wrapper{
-    
-    /* border-radius: 15px; */
-    /* margin: 0 auto; */
     text-align: center;
 }
+
 .card{
     margin-top: 50px;
     display: inline-block;
@@ -138,9 +136,9 @@ body
     color: var(--clr-dark-grey);
 }
 
-/* @media only screen and (max-width: 375px) {
+@media only screen and (max-width: 375px) {
     .card{
         width: 327px;
     }
 
-} */
+}
